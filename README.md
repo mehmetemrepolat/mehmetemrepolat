@@ -7,7 +7,7 @@ I’m interested in Machine Learning and Computer Vision topics. I’m currently
 m.emrepolat@icloud.com
 https://www.linkedin.com/in/mehmetemrepolat/
 
--You can read my articles:
+- 📫 You can read my articles:
 https://www.mshowto.org/author/memrepolat
 
 <!---
